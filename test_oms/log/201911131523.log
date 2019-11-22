@@ -1,0 +1,6 @@
+2019-11-13 15:23:01,769 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-11-13 15:23:01,769 - BrowserEngine - INFO - The test server url is http://10.238.2.63:9001 
+2019-11-13 15:23:04,158 - BrowserEngine - INFO - Starting Chorme browser 
+2019-11-13 15:23:04,603 - BrowserEngine - INFO - Open url http://10.238.2.63:9001 
+2019-11-13 15:23:04,604 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2019-11-13 15:23:21,756 - BrowserEngine - INFO - Now,Close and quit the browser. 
